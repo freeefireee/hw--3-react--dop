@@ -1,0 +1,73 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('https://icdn.lenta.ru/images/2015/09/22/16/20150922160851837/detail_cb8e7fb795b63e8bcad6b51d48676633.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .calculator {
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+  }
+  
+  input, button {
+    margin: 5px;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+
+  .calc {
+    text-align: center;
+    align-items: center;
+    margin-top: 8%;
+    border: 5px solid black;
+    width: 20%;
+    margin-left: 40%;
+    border-radius: 10px;
+  }
+  
+  .one-h1 {
+    color: mediumturquoise;
+  }
+
+  .result {
+    color: rgb(172, 172, 172);
+  }
+
+  .inp {
+    border-radius: 10px;
+  }
+
+  .btn {
+    border-radius: 5px;
+  }
+
+  #btn1 {
+    background-color: red;
+  }
+
+  #btn2 {
+    background-color: blue;
+  }
+
+  #btn3 {
+    background-color: gray;
+  }
+
+  #btn4 {
+    background-color: gold ;
+  }
+
+  #btn5 {
+    background-color: purple;
+  }
+
+  #btn6 {
+    background-color: aqua;
+  }
